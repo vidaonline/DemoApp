@@ -1,5 +1,8 @@
 {
   "name": "GuastApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
